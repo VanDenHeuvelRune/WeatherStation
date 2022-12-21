@@ -1,0 +1,10 @@
+.pio/
+.vscode/
+assets/
+backup/
+lib/
+test/
+IndividualProjectITEssentials_Rune_VanDenHeuvel_1ITF_3.docx
+IndividualProjectITEssentials_Rune_VanDenHeuvel_1ITF_3.mkv
+include/README
+secrets/
